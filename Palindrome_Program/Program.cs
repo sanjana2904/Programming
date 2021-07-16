@@ -23,7 +23,7 @@ namespace Palindrome_Program
                 Console.Write("Number is not Palindrome");
         }
     }
-    }
+    }  
 
 
 
