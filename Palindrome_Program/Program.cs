@@ -21,7 +21,9 @@ namespace Palindrome_Program
                 Console.Write("Number is Palindrome.");
             else
                 Console.Write("Number is not Palindrome");
+            Console.Write("Number is added for conflict in Palindrome");
         }
+       
     }
     }
 
